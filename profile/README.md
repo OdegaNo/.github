@@ -1,5 +1,7 @@
 # 어데가노? 프로젝트 기획서
 
+<img src="/assets/banner.png"/>
+
 > [어데가노? 프로젝트 체험하기](https://odegano.kro.kr/)
 
 ### 팀원
