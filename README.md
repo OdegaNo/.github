@@ -18,7 +18,7 @@
 
 ## 4. 제안 배경 및 목적 
 ### [ 제안 배경 ]
-<img src="https://media.discordapp.net/attachments/1434842040939839549/1440492684140871871/image2.png?ex=691e5ada&is=691d095a&hm=ea3b874f2b455e05ee095428536b0b1f9ce6a9d75660c9716a4ff125cf24dc9c&=&format=webp&quality=lossless&width=2210&height=1696" width="450px" alt="제안 배경 이미지"></img><br/>
+<img src="/assets/image-graph.png" width="450px" alt="제안 배경 이미지"></img><br/>
 - 최근 해외 여행 중 치안 문제, 사기, 납치, 실종 사건 증가 등이 사회적 이슈가 되고 있음 
 - 환율 상승, 항공권 가격 폭등으로 인해 해외 여행의 비용 부담이 커짐 
 - 그러나 사람들은 여전히 다른 나라의 분위기·음식·문화를 경험하고 싶어함 
@@ -41,7 +41,7 @@ AI 모델 및 기술
 - 데이터베이스: MongoDB (관광지 데이터 저장 및 검색)
 
 ### [ 서비스 동작 방식 ] 
-<img width="80%" src="https://media.discordapp.net/attachments/1434842040939839549/1440492683813457960/image1.png?ex=691e5ada&is=691d095a&hm=dfd3573fcdfba7542a25c23ac711e233c510e10ad04c858edcef6aadc8705b45&=&format=webp&quality=lossless&width=2128&height=1696">
+<img width="80%" src="assets/image-process.png">
 
 1단계: 사용자 입력
 - "일본에서 온천 여행하고 싶어요" 입력
@@ -67,7 +67,8 @@ AI 모델 및 기술
 | RAG 처리 | 외부·내부의 실제 명소 데이터(문서·DB·API)를 참조하여 사실 기반으로 후보를 생성하고, 컨텍스트를 결합해 신뢰도 높은 추천을 만듭니다. |
 
 ### [ 서비스의 예상 UI/UX 이미지 시각화 ]
-<img src="https://cdn.discordapp.com/attachments/1434842040939839549/1440498205178724352/Group_142.png?ex=691e5fff&is=691d0e7f&hm=66dd16f2c368f1c960889d8ee62e6502c9aaf917b4872acad24102d3be6448a0&">
+<img src="assets/image-uxui.png">
+
 
 ## 6. 기대효과 
 ### [ 사회적 기대효과 ]
