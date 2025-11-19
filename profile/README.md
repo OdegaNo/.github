@@ -41,7 +41,7 @@ AI 모델 및 기술
 - 데이터베이스: MongoDB (관광지 데이터 저장 및 검색)
 
 ### [ 서비스 동작 방식 ] 
-<img width="80%" src="assets/image-process.png">
+<img width="80%" src="/assets/image-process.png">
 
 1단계: 사용자 입력
 - "일본에서 온천 여행하고 싶어요" 입력
@@ -67,7 +67,7 @@ AI 모델 및 기술
 | RAG 처리 | 외부·내부의 실제 명소 데이터(문서·DB·API)를 참조하여 사실 기반으로 후보를 생성하고, 컨텍스트를 결합해 신뢰도 높은 추천을 만듭니다. |
 
 ### [ 서비스의 예상 UI/UX 이미지 시각화 ]
-<img src="assets/image-uxui.png">
+<img src="/assets/image-uxui.png"/>
 
 
 ## 6. 기대효과 
